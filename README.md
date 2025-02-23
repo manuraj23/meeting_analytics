@@ -59,7 +59,7 @@ flutter run
 [Manu Raj]
 
 
-Vidoe Link:
+[Video Link](https://manuraj23.github.io/meeting_analytics_video/)
 
 
 
